@@ -15,4 +15,4 @@ pip install detoxify
 ```Ruby
 pip install tenserflow
 ```
-Моя почта: mansur1290@yandex.ru
+Моя почта: mansur1290@yandex.ru  для связы.
